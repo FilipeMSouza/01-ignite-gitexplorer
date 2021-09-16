@@ -1,4 +1,5 @@
 import {render} from "react-dom";
-import {App} from './app'
+import { Repositorylist } from "./components/Repolist";
+import './styles/global.scss'
 
-render(<App />, document.getElementById('root'))
+render(<Repositorylist/>, document.getElementById('root'))

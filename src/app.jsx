@@ -1,3 +1,4 @@
+import './styles/global.scss'
 export function App(){
-    return <h1>teste</h1>
+    return <h1>Koé</h1>
 }
